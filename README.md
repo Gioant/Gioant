@@ -4,7 +4,7 @@ Hi 👋 My name is Anthony Giolti Funes
 Software Developer
 ------------------
 
-Just completed my program at Herzing for Programmer Analyst. I Really enjoyed Frontend Development and have been trying to learn more javascript and frameworks. Also, I believe in the near future i will focus more or specialize in mobile development
+Just completed my program at Herzing for Programmer Analyst. I Really enjoyed Frontend Development and have been trying to learn more javascript and frameworks. Also, I believe in the near future i will focus more or specialize in mobile development (iOS)
 
 * 🌍  I'm based in Montreal, Canada
 * ✉️  You can contact me at [gioant0629@gmail.com](mailto:gioant0629@gmail.com)
