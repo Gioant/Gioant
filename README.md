@@ -58,7 +58,7 @@ Just completed my program at Herzing for Programmer Analyst. I Really enjoy Fron
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center" style="display: flex; gap: 10px;">
+<div width="100%" align="center" style="display: flex;gap: 10px;">
 
 <a href="https://github.com/gioant/TeamProject" align="left">
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;width: auto;max-height: 125px;"/></a>
