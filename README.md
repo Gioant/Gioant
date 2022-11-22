@@ -48,13 +48,13 @@ Just completed my program at Herzing for Programmer Analyst. I Really enjoy Fron
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Gioant"><img src="https://github-readme-stats.vercel.app/api?username=Gioant&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gioant's GitHub stats" /></a>
+<a href="http://www.github.com/gioant"><img src="https://github-readme-stats.vercel.app/api?username=gioant&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="gioant's GitHub stats" /></a>
 
-<a href="http://www.github.com/Gioant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gioant&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/gioant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gioant&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Gioant"><img src="https://activity-graph.herokuapp.com/graph?username=Gioant&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/gioant"><img src="https://activity-graph.herokuapp.com/graph?username=gioant&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Gioant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gioant&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gioant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioant&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/gioant/TeamProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gioant/Rpsproject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=Rpsproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
