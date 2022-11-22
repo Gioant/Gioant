@@ -6,7 +6,7 @@ Just completed my program at Herzing for Programmer Analyst. I Really enjoy Fron
 
 - 🌍  I'm based in Montreal, Canada
 - ✉️  You can contact me at [gioant0629@gmail.com](mailto:gioant0629@gmail.com)
-- 🚀  I'm currently working on [Rock Paper Scissors](http://https://github.com/Gioant/odin-RPSproject)
+- 🚀  I'm currently working on Etch-A-Sketch!
 - 🧠  I'm learning Javascript!
 - 🤝  I'm open to collaborating on Interesting Projects
 
