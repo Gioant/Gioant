@@ -58,7 +58,7 @@ Just completed my program at Herzing for Programmer Analyst. I Really enjoy Fron
 
 
 <b>Top Repositories</b>
-<div width="100%" align="center" ><a href="https://github.com/gioant/TeamProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en"style="max-width: 100%;height: 125px;width: auto;" /></a>
+<div width="100%" align="center" ><a href="https://github.com/gioant/TeamProject" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en"style="max-width: 100%;height: 125px;" /></a>
   
-  <a href="https://github.com/gioant/Mini-chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=Mini-chat&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;width: auto;" /></a></div>
+  <a href="https://github.com/gioant/Mini-chat" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=Mini-chat&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a></div>
 
