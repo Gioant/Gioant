@@ -1,5 +1,9 @@
 # Hi 👋 My name is Anthony Giolti Funes
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100%" />
+</div>  
+
 ## Software Developer
 
 Just completed my program at Herzing for Programmer Analyst. I Really enjoy Frontend Development and have been trying to learn more javascript and it's frameworks. Also, I believe in the near future i will specialize in mobile development (iOS)
