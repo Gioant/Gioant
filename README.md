@@ -5,8 +5,7 @@
 Just completed my program at Herzing for Programmer Analyst. I Really enjoy Frontend Development and have been trying to learn more javascript and it's frameworks. Also, I believe in the near future i will specialize in mobile development (iOS)
 
 - 🌍  I'm based in Montreal, Canada
-- ✉️  You can contact me at [gioant0629@gmail.com](mailto:gioant0629@gmail.com)
-- 🚀  I'm currently working on Etch-A-Sketch!
+- 🚀  I'm currently working on JS Calculator!
 - 🧠  I'm learning Javascript!
 - 🤝  I'm open to collaborating on Interesting Projects
 
