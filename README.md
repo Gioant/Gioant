@@ -6,7 +6,8 @@
 
 ## Software Developer
 
-Just completed my program at Herzing for Programmer Analyst. I Really enjoy Frontend Development and have been trying to learn more javascript and it's frameworks. Also, I believe in the near future i will specialize in mobile development (iOS)
+Just completed my program at Herzing for Programmer Analyst. I really enjoy Web Development and currently learning more javascript and it's frameworks.
+
 
 - 🌍  I'm based in Montreal, Canada
 - 🚀  I'm currently working on JS Calculator!
