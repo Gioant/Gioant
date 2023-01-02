@@ -9,11 +9,11 @@
 Just completed my program at Herzing for Programmer Analyst. I really enjoy Web Development and currently learning more javascript and it's frameworks.
 
 
-- 🌍  I'm based in Montreal, Canada
-- 🚀  I'm currently working on JS Calculator!
-- 🧠  I'm learning Javascript!
-- 🤝  I'm open to collaborating on Interesting Projects
-- ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
+🌍  I'm based in Montreal, Canada
+🚀  I'm currently working on JS Calculator!
+🧠  I'm learning Javascript!
+🤝  I'm open to collaborating on Interesting Projects
+⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
 
 ### Technologies & Tools
 
