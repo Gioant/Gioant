@@ -15,7 +15,7 @@ Just completed my program at Herzing for Programmer Analyst. I really enjoy Web 
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
 
-### Technologies & Tools
+### 💻 My Skills
 
 <p align="left">
 <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -49,9 +49,7 @@ Just completed my program at Herzing for Programmer Analyst. I really enjoy Web 
 
 <p align="left"> <a href="https://www.github.com/Gioant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gioant99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> -->
 
-### Badges
-
-<b>My GitHub Stats</b>
+### 📊 My Github Stats
 
 <a href="http://www.github.com/gioant"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gioant&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="gioant's GitHub stats" /></a>
 
