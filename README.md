@@ -6,7 +6,7 @@
 
 ## Software Developer
 
-Just completed my program at Herzing for Programmer Analyst. I really enjoy Web Development and currently learning more javascript and it's frameworks.
+I enjoy turning ideas into real-world applications. Currently learning Javascript and web development
 
 
 - 🌍  I'm based in Montreal, Canada
