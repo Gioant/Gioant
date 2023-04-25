@@ -10,7 +10,7 @@ I enjoy turning ideas into real-world applications. Currently learning Javascrip
 
 
 - 🌍  I'm based in Montreal, Canada
-- 🚀  I'm currently working on JS Calculator!
+- 🚀  I'm currently working on Admin DashBoard!
 - 🧠  I'm learning Javascript!
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
