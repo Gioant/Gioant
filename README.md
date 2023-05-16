@@ -10,7 +10,7 @@ Former Programmer Analyst to currently a Software Developer specializing in Full
 
 - 🌍  I'm based in Montreal, Canada
 - 🚀  I'm currently working on Library Project!
-- 🧠  I'm learning Javascript!
+- 🧠  I'm learning Full-Stack Javascript + React!
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
 
