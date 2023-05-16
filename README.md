@@ -6,11 +6,10 @@
 
 ## Software Developer
 
-I enjoy turning ideas into real-world applications. Currently learning Javascript and web development
-
+Former Programmer Analyst to currently a Software Developer specializing in Full Stack JavaScript and Web Development. I bring a unique blend of analytical prowess and programming expertise. With a focus on creating immersive web experiences and a passion in building dynamic applications.
 
 - 🌍  I'm based in Montreal, Canada
-- 🚀  I'm currently working on Admin DashBoard!
+- 🚀  I'm currently working on Library Project!
 - 🧠  I'm learning Javascript!
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
