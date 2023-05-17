@@ -69,3 +69,5 @@ Former Programmer Analyst to now an aspiring Software Developer specializing in 
 
 <div width="100%" align="center"><a href="https://github.com/gioant/RPSproject" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=RPSproject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;"/></a></div>
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
