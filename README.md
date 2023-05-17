@@ -44,7 +44,7 @@ Former Programmer Analyst to now an aspiring Software Developer specializing in 
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🐍 Snake Game Inside My Github Contributions
+### 🐍 Snake Animation
 
 <img src="https://raw.githubusercontent.com/gioant/gioant/output/snake.svg" alt="Snake animation" />
 
