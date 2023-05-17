@@ -44,6 +44,8 @@ Former Programmer Analyst to now an aspiring Software Developer specializing in 
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<img src="https://raw.githubusercontent.com/gioant/gioant/output/snake.svg" alt="Snake animation" />
+
 <!-- ### Socials
 
 <p align="left"> <a href="https://www.github.com/Gioant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gioant99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> -->
