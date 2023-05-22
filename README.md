@@ -52,12 +52,9 @@ Former Programmer Analyst to now a Software Developer with a focus in Full Stack
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center" >
-
-<a href="https://github.com/gioant/TeamProject" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
+div width="100%" align="center" ><a href="https://github.com/gioant/TeamProject" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en"style="max-width: 100%;height: 125px;" /></a>
   
-  <a href="https://github.com/gioant/Mini-chat" align="right"><img align="right" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=Mini-chat&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
-</div>
+  <a href="https://github.com/gioant/Mini-chat" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=Mini-chat&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
 
@@ -66,6 +63,6 @@ Former Programmer Analyst to now a Software Developer with a focus in Full Stack
 
 <a href="https://github.com/gioant/Sign-Up-Form" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=Sign-Up-Form&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
 
-<a href="https://github.com/gioant/adminDashboard" align="right"><img align="right" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=adminDashboard&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
+<a href="https://github.com/gioant/adminDashboard" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=adminDashboard&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
 </div>
 
