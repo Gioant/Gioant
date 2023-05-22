@@ -17,15 +17,6 @@ Former Programmer Analyst to now a Software Developer with a focus in Full Stack
 ### 💻 My Skills
 
 <p align="left">
-<!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>-->
 
 <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,9 +39,6 @@ Former Programmer Analyst to now a Software Developer with a focus in Full Stack
 
 <img src="https://raw.githubusercontent.com/gioant/gioant/output/snake.svg" alt="Snake animation" />
 
-<!-- ### Socials
-
-<p align="left"> <a href="https://www.github.com/Gioant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gioant99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> -->
 
 ### 📊 My Github Stats
 
@@ -58,18 +46,26 @@ Former Programmer Analyst to now a Software Developer with a focus in Full Stack
 
 <a href="http://www.github.com/gioant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gioant&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/gioant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gioant&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/gioant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gioant&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/gioant" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gioant&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gioant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioant&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center" ><a href="https://github.com/gioant/TeamProject" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en"style="max-width: 100%;height: 125px;" /></a>
+<div width="100%" align="center" >
+
+<a href="https://github.com/gioant/TeamProject" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=TeamProject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
   
-  <a href="https://github.com/gioant/Mini-chat" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=Mini-chat&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a></div>
+  <a href="https://github.com/gioant/Mini-chat" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=Mini-chat&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
+</div>
 
 <br /><br /><br /><br /><br /><br />
 
 
-<div width="100%" align="center"><a href="https://github.com/gioant/RPSproject" align="left"><img align="left" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=gioant&repo=RPSproject&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;"/></a></div>
+<div width="100%" align="center">
+
+<a href="https://github.com/gioant/Sign-Up-Form" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=Sign-Up-Form&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
+
+<a href="https://github.com/gioant/adminDashboard" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=gioant&repo=adminDashboard&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a>
+</div>
 
