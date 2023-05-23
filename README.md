@@ -13,6 +13,7 @@ Former Programmer Analyst to now a Software Developer with a focus in Full Stack
 - 🧠  I'm learning Full-Stack Javascript + React!
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
+- 🌐 see some visually appealing projects I have been working on <a href="https://codepen.io/gioant">codepen</a> 
 
 ### 💻 My Skills
 
