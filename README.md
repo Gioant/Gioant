@@ -9,7 +9,7 @@
 Former Programmer Analyst to now a Software Developer with a focus in Full Stack JavaScript and Web Development. I bring a unique blend of analytical prowess and programming expertise. With a focus on creating immersive web experiences and a passion in building dynamic applications.
 
 - 🌍  I'm based in Montreal, Canada
-- 🚀  I'm currently working on Library Project!
+- 🚀  I'm currently working on a weather app!
 - 🧠  I'm learning Full-Stack Javascript + React!
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
