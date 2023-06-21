@@ -42,8 +42,9 @@ Former Programmer Analyst to now a Software Developer with a focus in Full Stack
 
 
 ### 📊 My Github Stats
-
+<!--
 <a href="http://www.github.com/gioant"><img src="https://github-readme-stats-gioant.vercel.app/api?username=gioant&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="gioant's GitHub stats" /></a>
+-->
 
 <a href="http://www.github.com/gioant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gioant&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
