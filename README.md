@@ -6,7 +6,7 @@
 
 ## Software Developer
 
-Former Programmer Analyst to now a Software Developer with a focus in Full Stack JavaScript and Web Development. I bring a unique blend of analytical prowess and programming expertise. With a focus on creating immersive web experiences and a passion in building dynamic applications.
+A Full Stack Developer specializing in JavaScript and Web Development. I bring a unique blend of analytical prowess and programming expertise. With a focus on creating immersive web experiences and a passion in building dynamic applications.
 
 - 🌍  I'm based in Montreal, Canada
 - 🚀  I'm currently working on a weather app!
