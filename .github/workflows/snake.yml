@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+      - name: Generate
+        uses: Platane/snk@main
         with:
-          github_user_name: ${{ github.actor }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
 
