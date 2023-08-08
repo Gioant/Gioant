@@ -10,7 +10,7 @@ A Full Stack Developer specializing in JavaScript and Web Development. I bring a
 
 - 🌍  I'm based in Montreal, Canada
 - 🚀  I'm currently working on a Github User Search App With API!
-- 🧠  I'm learning Full-Stack Javascript + React!
+- 🧠  I'm Currently learning React + WebPack!
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
 - 🌐 see some web design projects I have been working on <a href="https://codepen.io/gioant">codepen</a> 
