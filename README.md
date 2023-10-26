@@ -13,7 +13,7 @@ A Full Stack Developer specializing in JavaScript and Web Development. I bring a
 - 🧠  I'm Currently learning React!
 - 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
-- 🌐 see some web design projects I have been working on <a href="https://codepen.io/gioant">codepen</a> 
+- 🌐 see some cool designs I have been working on <a href="https://codepen.io/gioant">codepen</a> 
 
 ### 💻 My Skills
 
