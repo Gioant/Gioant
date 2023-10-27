@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 60%" />
 </div>  
 
-## Software Developer
+## About Me
 
 A Full Stack Developer specializing in JavaScript and Web Development. I bring a unique blend of analytical prowess and programming expertise. With a focus on creating immersive web experiences and a passion in building dynamic applications.
 
