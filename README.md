@@ -8,7 +8,7 @@
 
 A multi-lingual Full Stack Developer from Canada. I bring a unique blend of analytical prowess and programming expertise. Been programming for ~2 years and working in different environments I am your go-to consultant for tailoring solutions to your needs! 
 
-Absolutely enjoy problem-solving and debugging code! You know, those moments when you are deep in lines of code... determined to crack the mystery. Hours fly by, but the satisfaction of solving it is unbeatable. It is like a coding adventure, where even ChatGPT might throw in a challenge accepted emoji. Let's navigate those coding mazes together!
+Absolutely enjoy problem-solving and debugging code! You know, those moments when you are deep in lines of code... determined to crack the mystery. Hours fly by, but the satisfaction of solving it is unbeatable. It is like a coding adventure, where even ChatGPT might throw in a challenge the towel, unable to help. 
 
 - 🌍  I'm based in Montreal, Canada
 - 🚀  I'm currently working on a Multi Step Form!
