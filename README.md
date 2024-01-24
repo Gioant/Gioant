@@ -6,7 +6,9 @@
 
 ## About Me
 
-A multi-lingual Full Stack Developer from Canada. I bring a unique blend of analytical prowess and programming expertise. Been programming for ~2 years and working in different environments I am your go-to consultant for tailoring solutions to your needs! 
+A multi-lingual Full Stack Developer from Canada. I bring a unique blend of analytical prowess and programming expertise. Been programming for ~2 years and working in different environments.
+
+Consider me your go-to consultant for tailoring solutions to your needs! 
 
 - 🌍  I'm based in Montreal, Canada
 - 🚀  I'm currently working on a Multi Step Form!
