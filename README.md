@@ -43,8 +43,9 @@ Consider me your go-to consultant for tailoring solutions to your needs!
 
 </p>
 
+<!-- 
 ### 🐍 Snake Animation Of My Github Commits
-<!--  
+ 
 <img src="https://raw.githubusercontent.com/gioant/gioant/output/snake.svg" alt="Snake animation" />
 -->
 
