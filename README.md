@@ -11,11 +11,10 @@ A multi-lingual Full Stack Developer from Canada. I bring a unique blend of anal
 Consider me your go-to consultant for tailoring solutions to your needs! 
 
 - 🌍  I'm based in Montreal, Canada
-- 🚀  I'm currently working on a Multi Step Form!
 - 🧠  I'm Currently learning React!
-- 🤝  I'm open to collaborating on Interesting Projects
 - ⚡  fun fact: can speak 4 languages (English, French, Spanish & Italian)
-- 🌐 see some cool designs I have been working on <a href="https://codepen.io/gioant">codepen</a> 
+
+<!-- 🚀  I'm currently working on a Multi Step Form! -->
 
 ### 💻 My Skills
 
@@ -45,9 +44,9 @@ Consider me your go-to consultant for tailoring solutions to your needs!
 </p>
 
 ### 🐍 Snake Animation Of My Github Commits
-
+<!--  
 <img src="https://raw.githubusercontent.com/gioant/gioant/output/snake.svg" alt="Snake animation" />
-
+-->
 
 ### 📊 My Github Stats
 <!--
